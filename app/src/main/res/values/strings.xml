@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">UIMessages</string>
+    <string name="toast_example">Toast Example</string>
+    <string name="snackbar_example">Snackbar Example</string>
+    <string name="notification_example">Notification Example</string>
+    <string name="ok">OK</string>
+    <string name="example_notification_channel">Example Notification Channel</string>
+    <string name="notification_channel_description">Example channel for notifications</string>
+    <string name="notification_title">This is the title</string>
+    <string name="notification_text">Here is an example of notification</string>
+    <string name="cancel_notification">Cancel Notification</string>
+    <string name="update_notification">Update Notification</string>
+    <string name="notification_updated">Notification Updated!</string>
+</resources>
